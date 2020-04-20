@@ -1,3 +1,6 @@
 [submodule "dh-front-end"]
 	path = dh-front-end
 	url = git@github.com:Itarn/dh-front-end.git
+[submodule "dh-back-end"]
+	path = dh-back-end
+	url = git@github.com:Itarn/dh-back-end.git
